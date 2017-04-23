@@ -1,0 +1,37 @@
+.red{
+	color: red;
+}
+
+.txt-c{
+	text-align: center;
+}
+
+.black{
+	color: #333;
+}
+
+.font-12{
+	font-size: 12px;
+}
+.font-14{
+	font-size: 14px;
+}
+.font-16{
+	font-size: 16px;
+}
+.font-18{
+	font-size: 18px;
+}
+.font-20{
+	font-size: 20px;
+}
+
+h1,h2,h3,h4,h5{
+	font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+
+}
+.content{
+	font-size: 16px;
+	line-height: 30px;
+	margin-top: -30px;
+}
